@@ -27,4 +27,5 @@ from .transferobject import TransferObject
 from .selectionset import SelectionSet, saveSelectionSet
 from .pose import Pose, savePose, loadPose
 from .animation import Animation, PasteOption, saveAnim, loadAnims
+from .pathfile import PathFile
 from .mirrortable import MirrorTable, MirrorOption, saveMirrorTable

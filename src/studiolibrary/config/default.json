@@ -52,6 +52,8 @@
     // "studiolibrarymaya.exampleitem.ExampleItem",
     // The maya file item is in development
     // "studiolibrarymaya.mayafileitem.MayaFileItem",
+    // The path file item for sort maya file path.
+    "studiolibrarymaya.pathitem.PathItem",
     "studiolibrarymaya.poseitem.PoseItem",
     "studiolibrarymaya.animitem.AnimItem",
     "studiolibrarymaya.mirroritem.MirrorItem",
